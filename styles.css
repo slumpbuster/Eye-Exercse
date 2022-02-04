@@ -1,0 +1,47 @@
+body {
+     margin: 0;
+     padding: 0;
+     background: #14495e;
+     cursor: url("./cookie.cur"), auto;
+     }
+
+.face {
+      position: absolute;
+      top: 30%;
+      left: 20%;
+      }
+.eyes {
+      transform: translateY(-50%);
+      width: 100%;
+      text-align: center;
+      }
+.eye {
+     width: 240px;
+     height: 120px;
+     background: #fff;
+     display: inline-block;
+     margin: 40px;
+     border-radius: 50%;
+     position: relative;
+     overflow: hidden;
+     }
+.ball {
+      width: 80px;
+      height: 80px;
+      background: #000;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      border-radius: 50%;
+      }
+  .mouth {
+    width: 500px;
+    height: 100px;
+    top: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    border-bottom-left-radius: 110px;
+    border-bottom-right-radius: 110px;
+    }
