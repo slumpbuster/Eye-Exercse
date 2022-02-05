@@ -1,5 +1,5 @@
 # Eyes
-# <img src="CookieMonster.jpg" height="200px" width="300px"/>
+# <img src="./images/CookieMonster.jpg" height="200px" width="300px"/>
 
 ## Description 
 This is a decent and easy representation of how one can use cascading style sheets and javascript to manipulate the display and functionality of a web page.  It also is a good representation of how a browser interacts with the movement of the mouse.
