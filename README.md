@@ -3,7 +3,7 @@
 
 ## Description 
 This is a decent and easy representation of how one can use cascading style sheets and javascript to manipulate the display and functionality of a web page.  It also is a good representation of how a browser interacts with the movement of the mouse.
-Originally, the example had one eye. A second eye was added as part of the original exercise. In doing soit reminded me of Cookie Monster from Sesame Street, so a mouth was added and a cookie for the cursor.
+Originally, the example had one eye. A second eye was added as part of the original exercise. In doing so it reminded me of Cookie Monster from Sesame Street, so a mouth was added and a cookie for the cursor.
 
 ---------
 
@@ -14,11 +14,11 @@ Originally, the example had one eye. A second eye was added as part of the origi
 ---------
 
 ## Files 
-- **/CookieMonster.jpg** - Used in the Readme file 
-- **/index.html** - Start-up file to be opened by browse 
-- **/styles.css** - Stylesheet file that positions objects, controls text, colors, and layout
-- **/eyes.js** - Javascript file manipulating what is occuring in the browser 
-- **/cookie.cur** - Cursor file used to change the default cursor 
+- **/images/CookieMonster.jpg** - Used in the Readme file 
+- **/images/cookie.cur** - Cursor file used to change the default cursor 
+- **index.html** - Start-up file to be opened by browse 
+- **styles.css** - Stylesheet file that positions objects, controls text, colors, and layout
+- **eyes.js** - Javascript file manipulating what is occuring in the browser 
 
 ---------
 
