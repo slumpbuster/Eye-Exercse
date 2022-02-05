@@ -1,4 +1,4 @@
-# Eye-exercise
+# Eyes
 # <img src="CookieMonster.jpg" height="200px" width="300px"/>
 
 ## Description 
