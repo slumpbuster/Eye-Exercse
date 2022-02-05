@@ -22,6 +22,15 @@ Originally, the example had one eye. A second eye was added as part of the origi
 
 ---------
 
+## Improvements Made
+- 2022-02-04: Added a mouth
+- 2022-02-04: Changed the mouse cursor to be a cookie
+
+---------
+
+## Roadmap of future improvements
+- Add a tongue to the mouth when the cookie is over the mouth area
+
 ## Purpose 
 
 This was done as an assignment in the MIT course - Full Stack Development with Mern
