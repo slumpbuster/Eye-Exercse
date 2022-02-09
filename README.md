@@ -1,5 +1,5 @@
 # Eyes
-# <img src="./images/CookieMonster.jpg" height="200px" width="300px"/>
+# <img src="./images/CookieMonster.png" height="200px" width="300px"/>
 
 ## Description 
 This is a decent and easy representation of how one can use cascading style sheets and javascript to manipulate the display and functionality of a web page.  It also is a good representation of how a browser interacts with the movement of the mouse.
@@ -7,14 +7,32 @@ Originally, the example had one eye. A second eye was added as part of the origi
 
 ---------
 
+## Purpose 
+This was done as an assignment in the MIT course - Full Stack Development with Mern
+
+---------
+
+## Technologies Used 
+- HTML
+- CSS
+- Javascript
+
+---------
+
+## Installation 
+- Clone this repository to your local machine
+
+---------
+
 ## How to Run 
+- Browse to the directory where you cloned this repository
 - Open the .html file in a browser (Chrome, Edge, Safari, Firefox)
 - Move the mouse around the browser and watch the eyes follow the cookie.
 
 ---------
 
 ## Files 
-- **/images/CookieMonster.jpg** - Used in the Readme file 
+- **/images/CookieMonster.png** - Used in the Readme file 
 - **/images/cookie.cur** - Cursor file used to change the default cursor 
 - **index.html** - Start-up file to be opened by browse 
 - **styles.css** - Stylesheet file that positions objects, controls text, colors, and layout
@@ -28,37 +46,15 @@ Originally, the example had one eye. A second eye was added as part of the origi
 
 ---------
 
-## Roadmap of future improvements
+## Roadmap of Future Improvements
 - Add a tongue to the mouth when the cookie is over the mouth area
-
-## Purpose 
-
-This was done as an assignment in the MIT course - Full Stack Development with Mern
 
 ---------
 
-The MIT License (MIT)
-=====================
+## Contributing 
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Copyright © 2022 slumpbuster
+---------
 
-Permission is hereby granted, free of charge, to any person
-obtaining a copy of this software and associated documentation
-files (the “Software”), to deal in the Software without
-restriction, including without limitation the rights to use,
-copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the
-Software is furnished to do so, subject to the following
-conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
-OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
-HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+## License
+[The MIT License (MIT)](https://github.com/slumpbuster/Eye-Exercse/blob/main/LICENSE)
