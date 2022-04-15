@@ -30,7 +30,7 @@ This was done as an assignment in the MIT course - Full Stack Development with M
 ## Files 
 - **/images/CookieMonster.png** - Used in the Readme file 
 - **/images/cookie.cur** - Cursor file used to change the default cursor 
-- **index.html** - Start-up file to be opened by browse 
+- **index.html** - Start-up file to be opened by browser
 - **styles.css** - Stylesheet file that positions objects, controls text, colors, and layout
 - **eyes.js** - Javascript file manipulating what is occuring in the browser 
 
